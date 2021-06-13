@@ -3,7 +3,6 @@
 ```
 Welcome to my GitHub profile. ✨ ✨ ✨
 
-- 🌱 I’m currently learning DevOps.
 - 👯 I’m looking for DevOps Job Roles.
 ```
 ### :diamond_shape_with_a_dot_inside: GitHub Analytics
