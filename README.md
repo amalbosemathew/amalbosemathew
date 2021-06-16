@@ -3,7 +3,7 @@
 ```
 Welcome to my GitHub profile. ✨ ✨ ✨
 
-- 👯 I’m looking for DevOps Job Roles.
+DevOps | AWS | Git | Bash | Docker | Ansible | Terraform | Jenkins
 ```
 ### :diamond_shape_with_a_dot_inside: GitHub Analytics
 
