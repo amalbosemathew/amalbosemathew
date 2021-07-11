@@ -1,7 +1,10 @@
+![](https://komarev.com/ghpvc/?username=amalbosemathew) 
+
 ### Hello folks, 👋
 
 ```
 Welcome to my GitHub profile. ✨ ✨ ✨
+
 
 DevOps | AWS | Git | Bash | Docker | Ansible | Terraform | Jenkins
 ```
