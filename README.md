@@ -6,7 +6,7 @@
 Welcome to my GitHub profile. ✨ ✨ ✨
 
 
-DevOps | AWS | Git | Bash | Docker | Ansible | Terraform | Jenkins
+DevOps | AWS | Git | Bash | Docker | Ansible | Terraform | Jenkins | Python
 ```
 ### :diamond_shape_with_a_dot_inside: GitHub Analytics
 
