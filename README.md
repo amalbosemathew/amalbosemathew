@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=amalbosemathew) 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/amalbosemathew)
 
 ### Hello folks, 👋
 
