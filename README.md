@@ -6,16 +6,17 @@
 Welcome to my GitHub profile. ✨ ✨ ✨
 
 
-DevOps | AWS | Git | Bash | Docker | Ansible | Terraform | Jenkins | Python
+DevOps | AWS | Git | Bash | Docker | Ansible | Terraform | Jenkins | Python | Kubernetes | Azure DevOps
 ```
 ```
 ---
 - Name: Amal Bose Mathew
-  hosts: Platform Engineer
+  hosts: Sr. DevOps Engineer/Sr. Platform Engineer
   become: true
     - Cloud platform:
         - AWS
         - GCP
+        - AZURE
     - Operating Systems:
         - Red Hat Linux Release 7
         - Ubuntu 18.04, 20.04
@@ -36,12 +37,18 @@ DevOps | AWS | Git | Bash | Docker | Ansible | Terraform | Jenkins | Python
     - Continous Integeration/Contious Deployment:
         - Jenkins
     - Containerization:
-        - Docker
+        - Docker 
     - Container Orchestration Tool:
         - Docker Swarm
+        - Kubernetes
     - Monitoring:
         - Zabbix
         - AWS Cloud Watch
+        - Prometheus
+        - Grafana
+        - OpenSearch (Former ElasticSearch)
+    - Package Manager
+        - HelmCharts
 ```
 
 ### :diamond_shape_with_a_dot_inside: GitHub Analytics
