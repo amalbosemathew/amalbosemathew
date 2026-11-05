@@ -84,34 +84,6 @@ mission:    turn cloud complexity into paved roads teams enjoy using
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amalbosemathew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalbosemathew&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalbosemathew&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalbosemathew&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-</p>
-
-<!-- Contribution activity graph -->
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amalbosemathew&theme=tokyo-night&hide_border=true&area=true&color=5eead4&line=818cf8&point=f472b6" alt="activity graph"/>
-</p>
-
-<!-- Contribution snake (needs the snake Action below) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amalbosemathew/amalbosemathew/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-<br/>
-
 <!-- ===================== FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:818cf8,100:5eead4&height=120&section=footer"/>
 
